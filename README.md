@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Create React Native App
 [![Backers on Open Collective](https://opencollective.com/create-react-native-app/backers/badge.svg)](#backers) [![Sponsors on Open Collective](https://opencollective.com/create-react-native-app/sponsors/badge.svg)](#sponsors) [![npm version](https://badge.fury.io/js/create-react-native-app.svg)](https://badge.fury.io/js/create-react-native-app)
 
@@ -154,7 +153,3 @@ Support this project by becoming a sponsor. Your logo will show up here with a l
 <a href="https://opencollective.com/create-react-native-app/sponsor/9/website" target="_blank"><img src="https://opencollective.com/create-react-native-app/sponsor/9/avatar.svg"></a>
 
 
-=======
-# react-native-practise
-first practise on react native
->>>>>>> be46fef2d62464b829d5e3ab11c216dd14ab83be
